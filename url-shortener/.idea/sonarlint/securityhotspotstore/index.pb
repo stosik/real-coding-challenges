@@ -33,3 +33,5 @@ Msrc/main/java/pl/stosik/url/shortener/infrastracture/persistence/Storage.java,
 Ysrc/main/java/pl/stosik/url/shortener/infrastracture/persistence/UrlsInMemoryStorage.java,4/3/43b137465bedfbaff425e76ed673a74076c45905
 ]
 -src/test/java/pl/stosik/UrlShortenerTest.java,d/3/d33648e036d0b707bc4983011e0a3ff074e66f14
+x
+Hsrc/main/java/pl/stosik/url/shortener/domain/encoding/UuidGenerator.java,7/c/7c11f1c5b4696c9fac9bc0578d89b4448eff7b7c
